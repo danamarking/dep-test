@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/sharkness-wss/totally-fake-npm-pkg#readme",
   "dependencies": {
-    "@angular/core": "^7.1.0-beta.1",
+    "@angular/core": "^19.2.18",
     "bootstrap": "^4.3.1",
     "mariadb": "^2.5.0",
     "phpunserialize": "^1.0.1",
